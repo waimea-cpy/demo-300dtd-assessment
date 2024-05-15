@@ -16,6 +16,7 @@ Designing the database structure
 
 Worked on a first draft of the DB design:
 
+![V1 of Database](images/db1.png)
 
 Showed this to my end-user to see if they thought it covered everything. They said:
 
@@ -23,7 +24,7 @@ Showed this to my end-user to see if they thought it covered everything. They sa
 
 So I updated the DB design to include those things:
 
-
+XXX
 
 ### DATE HERE
 
