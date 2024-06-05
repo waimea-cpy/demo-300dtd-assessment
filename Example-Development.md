@@ -24,7 +24,7 @@ Showed this to my end-user to see if they thought it covered everything. They sa
 
 So I updated the DB design to include those things:
 
-XXX
+![DB version 2](images/db2.png)
 
 ### DATE HERE
 
